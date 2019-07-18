@@ -1,0 +1,9 @@
+#CSV file for TarPit Type 1. @author - Dom Potts
+#Contains all the relevant values to build a tarpit on the Krooza Map
+#Structured as Value 1 = Type, Value 2 = Subtype, Value 3 = Rotation
+#Subtypes: 0=tar1, 1=tar2, 2=tar_edge, 3=tar_corner, 4=tar_inner
+T30,T31,NNN,T30,T31
+T43,T21,T40,T20,T41
+T33,T23,T10,T22,T32
+T30,T20,T10,T41,NNN
+T33,T42,T42,T32,NNN

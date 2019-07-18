@@ -1,0 +1,20 @@
+<!> Current Version: Krooza V0.1 Pre-Alpha
+<!> Upload Date: 17/02/2017
+
+<!> V0.1 - ChangeLog - 17.02.17
+ +  Added Tile Engine - WF
+ +  Added Loading Screen - WF
+ +  Added Main & Options Menu - WF
+ +  Added Pause Menu Overlay - WF
+ +  Added Assets Manager - WF
+ +  Added Tile Assets - AW
+ +  Added Pause Menu Assets - DP
+ +  Added Main&Options Menu Assets - WF
+<!> V0.1 - Release Notes - 17.02.17
+ #  This is the first upload of the final build of KROOZA
+ #  The work in this upload is final, however, there are
+ #  many other part of krooza that are near final that will
+ #  be added in coming builds such as Car code by DW and 
+ #  car assets by AW. Also in production is the garage menu
+ #  by AB with its assets by DP.
+

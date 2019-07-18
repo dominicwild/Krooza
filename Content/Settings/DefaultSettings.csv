@@ -1,0 +1,15 @@
+# HOW TO USE:
+# If the line starts with '#' it is a comment
+# Only change values manually if part of Krooza Kontrol
+# Framerate changes can impact the in-game physics engine too!
+#
+#Window Frame
+FULLSCREEN,FALSE
+WINDOWED,TRUE
+BORDERLESS,FALSE
+#Frames
+FRAMERATE,60
+VSYNC,TRUE
+#Resolution
+WIDTH,1080
+HEIGHT,720
